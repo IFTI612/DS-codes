@@ -59,8 +59,8 @@ int main()
     {
         level[i]=-1;
     }
-    BFS(10);
-    cout<<level[10]<<endl;
+    BFS(1);
+    cout<<level[3]<<endl;
 }
 
 
